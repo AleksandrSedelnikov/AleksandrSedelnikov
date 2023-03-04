@@ -45,3 +45,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
 </p>
+<p align="center"> Основная директория </p>
+<p align="center">
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/pin/?username=AleksandrSedelnikov&repo=Study&theme=github_dark"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
+</picture>
+</p>
