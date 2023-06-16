@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
 </p>
-<p align="center"> Изучаемые языки программирования </p>
+<p align="center"><B> Изучаемые языки программирования</B> </p>
 <p align="center">
 <picture>
 <source 
@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
 </p>
-<p align="center"> Общая статистика по профилю </p>
+<p align="center"> <B>Общая статистика по профилю</B> </p>
 <p align="center">
 <picture>
 <source 
@@ -45,7 +45,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
 </p>
-<p align="center"> Основная директория </p>
+<p align="center"> <B>Основная директория</B> </p>
 <p align="center">
 <picture>
 <source 
