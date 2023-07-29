@@ -54,3 +54,16 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
 </p>
+<br>
+<p align="center"> <B>Характеристики ПК</B></p>
+<p align="center"> Центральный процессор - AMD Ryzen 5 5500 (OEM)</p>
+<p align="center"> Видеокарта - NVIDIA GTX 1050Ti (MSI Aero ITX)</p>
+<p align="center"> Оперативная память - 2x8 GB (ADATA XPG GAMMIX D10 3200MHz)</p>
+<p align="center"> Материнская плата - Asrock B550 Phantom Gaming 4 (PCIe 4.0)</p>
+<p align="center"> SSD (C:) - Kingston A400 120GB (SATA3)</p>
+<p align="center"> HDD (D:) - WD Blue 1TB (SATA3)</p>
+<br>
+<p align="center"> <B>Периферия</B></p>
+<p align="center"> Клавиатура - Zet Gaming TKL (white)</p>
+<p align="center"> Мышь - Zet Gaming Fury 10.000 dpi (black)</p>
+<p align="center"> Наушники - JBL Quantum 100 (black)</p>
