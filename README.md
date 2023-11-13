@@ -60,15 +60,16 @@
   <p align="center"> <B>Центральный процессор</B> - AMD Ryzen 5 5500 (OEM)</p>
   <p align="center"> <B>Видеокарта</B> - NVIDIA GTX 1050Ti (MSI Aero ITX)</p>
   <p align="center"> <B>Оперативная память</B> - 2x8 GB (ADATA XPG GAMMIX D10 3200MHz)</p>
-  <p align="center"> <B>Материнская плата</B> - Asrock B550 Phantom Gaming 4 (PCIe 4.0)</p>
-  <p align="center"> <B>SSD</B> (C:) - Kingston A400 120GB (SATA3)</p>
+  <p align="center"> <B>Материнская плата</B> - ASRock B550M Pro4 (PCIe 4.0)</p>
+  <p align="center"> <B>SSD</B> (C:) - HP EX900 Plus M.2 512GB (NVME)</p>
   <p align="center"> <B>HDD</B> (D:) - WD Blue 1TB (SATA3)</p>
+  <p align="center"> <B>SSD</B> (E:) - Kingston A400 120GB (SATA3)</p>
 </details>
 <br>
 <details align="center">
   <summary><B>Периферия</B></summary>
   <br>
   <p align="center"> <B>Клавиатура</B> - Zet Gaming TKL (white)</p>
-  <p align="center"> <B>Мышь</B> - Zet Gaming Fury 10.000 dpi (black)</p>
-  <p align="center"> <B>Наушники</B> - JBL Quantum 100 (black)</p>
+  <p align="center"> <B>Мышь</B> - ARDOR GAMING Immortality (12400 dpi) (white)</p>
+  <p align="center"> <B>Наушники</B> - Fifine H6 (black)</p>
 </details>
