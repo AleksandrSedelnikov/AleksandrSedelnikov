@@ -58,7 +58,7 @@
   <summary><B>Характеристики ПК</B></summary>
   <br>
   <p align="center"> <B>Центральный процессор</B> - AMD Ryzen 5 5500 (OEM)</p>
-  <p align="center"> <B>Видеокарта</B> - NVIDIA GTX 1050Ti (MSI Aero ITX)</p>
+  <p align="center"> <B>Видеокарта</B> - NVIDIA RTX 3050 (KFA2 X White)</p>
   <p align="center"> <B>Оперативная память</B> - 2x8 GB (ADATA XPG GAMMIX D10 3200MHz)</p>
   <p align="center"> <B>Материнская плата</B> - ASRock B550M Pro4 (PCIe 4.0)</p>
   <p align="center"> <B>SSD</B> (C:) - HP EX900 Plus M.2 512GB (NVME)</p>
