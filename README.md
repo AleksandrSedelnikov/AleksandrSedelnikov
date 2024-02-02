@@ -57,9 +57,11 @@
 <details align="center">
   <summary><B>Характеристики ПК</B></summary>
   <br>
+  <p align="center"> <B>Корпус</B> - Cougar Duoface RGB White [soon]</p>
   <p align="center"> <B>Центральный процессор</B> - AMD Ryzen 5 5500 (OEM)</p>
+  <p align="center"> <B>Процессорный кулер</B> - ID-Cooling SE-903-XT ARGB WHITE</p>
   <p align="center"> <B>Видеокарта</B> - NVIDIA RTX 3050 (KFA2 X White)</p>
-  <p align="center"> <B>Оперативная память</B> - 2x8 GB (ADATA XPG GAMMIX D10 3200MHz)</p>
+  <p align="center"> <B>Оперативная память</B> - 4x8 GB [32 GB] (ADATA XPG GAMMIX D10 3200MHz)</p>
   <p align="center"> <B>Материнская плата</B> - ASRock B550M Pro4 (PCIe 4.0)</p>
   <p align="center"> <B>SSD</B> (C:) - HP EX900 Plus M.2 512GB (NVME)</p>
   <p align="center"> <B>HDD</B> (D:) - WD Blue 1TB (SATA3)</p>
@@ -70,6 +72,6 @@
   <summary><B>Периферия</B></summary>
   <br>
   <p align="center"> <B>Клавиатура</B> - Zet Gaming TKL (white)</p>
-  <p align="center"> <B>Мышь</B> - ARDOR GAMING Immortality (12400 dpi) (white)</p>
+  <p align="center"> <B>Мышь</B> - ARDOR GAMING Immortality PRO Wireless (19000 dpi) (white)</p>
   <p align="center"> <B>Наушники</B> - Fifine H6 (black)</p>
 </details>
