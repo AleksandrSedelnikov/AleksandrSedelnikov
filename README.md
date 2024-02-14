@@ -57,7 +57,8 @@
 <details align="center">
   <summary><B>Характеристики ПК</B></summary>
   <br>
-  <p align="center"> <B>Корпус</B> - Cougar Duoface RGB White [soon]</p>
+  <p align="center"> <B>Корпус</B> - Cougar Duoface RGB White</p>
+  <p align="center"> <B>Блок питания</B> - DEEPCOOL PK750D 80+ Bronze</p>
   <p align="center"> <B>Центральный процессор</B> - AMD Ryzen 5 5500 (OEM)</p>
   <p align="center"> <B>Процессорный кулер</B> - ID-Cooling SE-903-XT ARGB WHITE</p>
   <p align="center"> <B>Видеокарта</B> - NVIDIA RTX 4060 (KFA2 X White)</p>
