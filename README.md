@@ -60,9 +60,9 @@
   <p align="center"> <B>Корпус</B> - Cougar Duoface RGB White</p>
   <p align="center"> <B>Блок питания</B> - DEEPCOOL PK750D 80+ Bronze</p>
   <p align="center"> <B>Центральный процессор</B> - AMD Ryzen 5 5500 (OEM)</p>
-  <p align="center"> <B>Процессорный кулер</B> - ID-Cooling SE-903-XT ARGB WHITE</p>
+  <p align="center"> <B>Процессорный кулер</B> - ID-Cooling SE-224-XTS ARGB WHITE</p>
   <p align="center"> <B>Видеокарта</B> - NVIDIA RTX 4060 (KFA2 X White)</p>
-  <p align="center"> <B>Оперативная память</B> - 4x8 GB [32 GB] (ADATA XPG GAMMIX D10 3200MHz)</p>
+  <p align="center"> <B>Оперативная память</B> - 4x8 GB [32 GB] (ADATA XPG GAMMIX D10 3200MHz [boost 3600MHz])</p>
   <p align="center"> <B>Материнская плата</B> - ASRock B550M Pro4 (PCIe 4.0)</p>
   <p align="center"> <B>SSD</B> (C:) - HP EX900 Plus M.2 512GB (NVME)</p>
   <p align="center"> <B>HDD</B> (D:) - WD Blue 1TB (SATA3)</p>
