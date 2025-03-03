@@ -57,16 +57,14 @@
 <details align="center">
   <summary><B>Характеристики ПК (нажмите, чтобы развернуть)</B></summary>
   <br>
-  <p align="center"> <B>Корпус/Case</B> - Cougar Duoface RGB White</p>
-  <p align="center"> <B>Блок питания/Power Supply</B> - DEEPCOOL PK750D 750W 80+ Bronze</p>
-  <p align="center"> <B>Центральный процессор/CPU</B> - AMD Ryzen 5 5500 (low OC 4350 MHz)</p>
-  <p align="center"> <B>Процессорный кулер/CPU cooler</B> - ID-Cooling SE-224-XTS ARGB WHITE</p>
-  <p align="center"> <B>Видеокарта/GPU</B> - NVIDIA RTX 4060 (KFA2 X White) (low OC +141 MHz GPU and +200 MHz VM)</p>
+  <p align="center"> <B>Центральный процессор/CPU</B> - AMD Ryzen 5 5500 (auto OC)</p>
+  <p align="center"> <B>Видеокарта/GPU</B> - NVIDIA RTX 4060 (KFA2 X White) (auto OC)</p>
   <p align="center"> <B>Оперативная память/RAM</B> - 4x8 GB [32 GB] (ADATA XPG GAMMIX D10 3200 MHz 16-20-20-38 CR1)</p>
   <p align="center"> <B>Материнская плата/MotherBoard</B> - ASRock B550M Pro4 (PCIe 4.0)</p>
-  <p align="center"> <B>SSD NVME</B> (C:) - HP EX900 Plus M.2 512GB</p>
-  <p align="center"> <B>HDD SATA3</B> (D:) - WD Blue 1TB</p>
-  <p align="center"> <B>SSD SATA3</B> (E:) - Kingston A400 120GB</p>
+  <p align="center"> <B>Блок питания/Power Supply</B> - DEEPCOOL PK750D 750W 80+ Bronze</p>
+  <p align="center"> <B>SSD NVME</B> - HP EX900 Plus M.2 512GB</p>
+  <p align="center"> <B>HDD SATA3</B> - WD Blue 1TB</p>
+  <p align="center"> <B>SSD SATA3</B> - Kingston A400 120GB</p>
 </details>
 <br>
 <details align="center">
