@@ -31,7 +31,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
 </p>!--->
-<p align="center"> <B>Общая статистика по профилю</B> </p>
+<!---<p align="center"> <B>Общая статистика по профилю</B> </p>
 <p align="center">
 <picture>
 <source 
@@ -53,16 +53,17 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=AleksandrSedelnikov&show_icons=true" />
 </picture>
-</p>
+</p>!--->
 <details align="center">
   <summary><B>Характеристики ПК (нажмите, чтобы развернуть)</B></summary>
   <br>
-  <p align="center"> <B>Центральный процессор/CPU</B> - AMD Ryzen 5 5500 (auto OC)</p>
+  <p align="center"> <B>Центральный процессор/CPU</B> - AMD Ryzen 5 5700X (auto OC)</p>
   <p align="center"> <B>Видеокарта/GPU</B> - NVIDIA RTX 4060 (KFA2 X White) (auto OC)</p>
   <p align="center"> <B>Оперативная память/RAM</B> - 4x8 GB [32 GB] (ADATA XPG GAMMIX D10 3200 MHz 16-20-20-38 CR1)</p>
   <p align="center"> <B>Материнская плата/MotherBoard</B> - ASRock B550M Pro4 (PCIe 4.0)</p>
   <p align="center"> <B>Блок питания/Power Supply</B> - DEEPCOOL PK750D 750W 80+ Bronze</p>
   <p align="center"> <B>SSD NVME</B> - HP EX900 Plus M.2 512GB</p>
+  <p align="center"> <B>SSD NVME</B> -  Kingston M.2 NV3 1000GB</p>
   <p align="center"> <B>HDD SATA3</B> - WD Blue 1TB</p>
   <p align="center"> <B>SSD SATA3</B> - Kingston A400 120GB</p>
 </details>
@@ -71,6 +72,6 @@
   <summary><B>Периферия (нажмите, чтобы развернуть)</B></summary>
   <br>
   <p align="center"> <B>Клавиатура</B> - Zet Gaming TKL (white)</p>
-  <p align="center"> <B>Мышь</B> - ARDOR GAMING Immortality PRO Wireless (19000 dpi) (white)</p>
+  <p align="center"> <B>Мышь</B> - ARDOR GAMING Chimera (white)</p>
   <p align="center"> <B>Наушники</B> - Fifine H6 (black)</p>
 </details>
