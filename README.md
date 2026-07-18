@@ -58,7 +58,7 @@
   <summary><B>Характеристики ПК (нажмите, чтобы развернуть)</B></summary>
   <br>
   <p align="center"> <B>Центральный процессор/CPU</B> - AMD Ryzen 5 7500F</p>
-  <p align="center"> <B>Видеокарта/GPU</B> - NVIDIA RTX 4060 (KFA2 X White) (auto OC)</p>
+  <p align="center"> <B>Видеокарта/GPU</B> - NVIDIA RTX 5070 (GIGABYTE AERO OC) (auto OC)</p>
   <p align="center"> <B>Оперативная память/RAM</B> - DDR5 32 GB DualChannel [2x16 GB] (ADATA XPG Lancer Blade 6000 MHz AMD EXPO 30-40-40-76)</p>
   <p align="center"> <B>Материнская плата/MotherBoard</B> - ASRock X870 Steel Legend WiFi</p>
   <p align="center"> <B>Блок питания/Power Supply</B> - DEEPCOOL PK750D 750W 80+ Bronze</p>
