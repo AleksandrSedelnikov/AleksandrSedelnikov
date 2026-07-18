@@ -61,11 +61,10 @@
   <p align="center"> <B>Видеокарта/GPU</B> - NVIDIA RTX 5070 (GIGABYTE AERO OC) (auto OC)</p>
   <p align="center"> <B>Оперативная память/RAM</B> - DDR5 32 GB DualChannel [2x16 GB] (ADATA XPG Lancer Blade 6000 MHz AMD EXPO 30-40-40-76)</p>
   <p align="center"> <B>Материнская плата/MotherBoard</B> - ASRock X870 Steel Legend WiFi</p>
-  <p align="center"> <B>Блок питания/Power Supply</B> - DEEPCOOL PK750D 750W 80+ Bronze</p>
+  <p align="center"> <B>Блок питания/Power Supply</B> - DEEPCOOL GamerStorm PQ850G WH 850W 80+ Gold</p>
   <p align="center"> <B>SSD NVME</B> - HP EX900 Plus M.2 512GB</p>
   <p align="center"> <B>SSD NVME</B> -  Kingston M.2 NV3 1000GB</p>
   <p align="center"> <B>HDD SATA3</B> - WD Blue 1TB</p>
-  <p align="center"> <B>SSD SATA3</B> - Kingston A400 120GB</p>
 </details>
 <br>
 <details align="center">
